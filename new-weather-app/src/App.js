@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { Component } from 'react';
-import ContainerForDisplayingWeekWeather from  './ContainerForDisplayingWeekWeather';
+import ContainerForDisplayingWeekWeather from './ContainerForDisplayingWeekWeather';
 
 class App extends Component {
   render() {
