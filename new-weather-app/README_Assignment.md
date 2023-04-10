@@ -6,4 +6,4 @@
 -   Fetch a real 5-day forecast, and feed that data into your app.
 
 
-Reference: https://medium.com/@leizl.samano/how-to-make-a-weather-app-using-react-403c88252deb
+Reference from Medium: https://medium.com/@leizl.samano/how-to-make-a-weather-app-using-react-403c88252deb
